@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**flameflyy/flameflyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h1>Hi, I am <a href="https://aromalanil.in" target="_blank">AbdulRahman</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>I am Information technology dictionary </b> 🚀 from <b>Muscat Oman</b> <img
+           
+</div> -->
